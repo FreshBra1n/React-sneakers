@@ -1,0 +1,80 @@
+[
+    {
+     "id": "1",
+     "title": "ASICS Мужские кроссовки x M+RC Noir Gel-Quantum 180",
+     "price": "12.999",
+     "image": "/img/sneakers/1.jpg"
+    },
+    {
+     "id": "2",
+     "title": "ASICS Мужские Кроссовки Gel-Lyte III OG Day-Lyte",
+     "price": "9.590",
+     "image": "/img/sneakers/2.jpg"
+    },
+    {
+     "id": "3",
+     "title": "Jordan  Женские кроссовки Air Jordan 1 Zoom  Psychic Blue",
+     "price": "13.499",
+     "image": "/img/sneakers/5.jpg"
+    },
+    {
+     "id": "4",
+     "title": "Jordan Мужские кроссовки Air Jordan 6 Retro Electric Green",
+     "price": "16.290",
+     "image": "/img/sneakers/6.jpg"
+    },
+    {
+     "id": "5",
+     "title": "Jordan Мужские кроссовки Air Jordan 1 Low OG Neutral Grey",
+     "price": "11.990",
+     "image": "/img/sneakers/7.jpg"
+    },
+    {
+     "id": "6",
+     "title": "Reebok Мужские кроссовки x Bronze 56K Classic Leather",
+     "price": "9.290",
+     "image": "/img/sneakers/8.jpg"
+    },
+    {
+     "id": "7",
+     "title": "Nike Мужские кроссовки Air Total Max Uptempo Bred",
+     "price": "14.490",
+     "image": "/img/sneakers/9.jpg"
+    },
+    {
+     "id": "8",
+     "title": "Nike Мужские кроссовки Air Max 90 NRG Venn Diagram",
+     "price": "12.790",
+     "image": "/img/sneakers/10.jpg"
+    },
+    {
+     "id": "9",
+     "title": "New Balance Мужские кроссовки X-Racer Tactical Utility",
+     "price": "14.790",
+     "image": "/img/sneakers/11.jpg"
+    },
+    {
+     "id": "10",
+     "title": "Nike Кроссовки x Skepta Air Max Tailwind V Bloody Chrome",
+     "price": "15.990",
+     "image": "/img/sneakers/12.jpg"
+    },
+    {
+     "id": "11",
+     "title": "Adidas Originals Мужские кроссовки x National Park ZX 9000",
+     "price": "11.790",
+     "image": "/img/sneakers/13.jpg"
+    },
+    {
+     "id": "12",
+     "title": "adidas Originals Кроссовки x National Park ZX 8000",
+     "price": "11.790",
+     "image": "/img/sneakers/14.jpg"
+    },
+    {
+     "id": "13",
+     "title": "Jordan Мужские кроссовки Air Jordan 7 Retro Flint",
+     "price": "16.290",
+     "image": "/img/sneakers/15.jpg"
+    }
+   ]
