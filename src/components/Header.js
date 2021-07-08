@@ -13,7 +13,7 @@ function Header(props) {
 
         <Link to='/'>
           <div className='d-flex align-center'>
-            <img width={40} height={40} src='/img/logo.png' alt='logo' />
+            <img width={40} height={40} src='img/logo.png' alt='logo' />
             <div >
               <h3 className='text-uppercase' >
                 React Sneakers
@@ -26,14 +26,14 @@ function Header(props) {
         </Link>
         <ul className='d-flex cu-p align-center '>
           <li onClick={props.onClickCart} className='mr-30 mb-10'>
-            <img width={20} height={20} src='/img/tachka.png' alt='Корзина' />
+            <img width={20} height={20} src='img/tachka.png' alt='Корзина' />
             <span> {totalPrice} руб.</span>
           </li>
           <li>
-            <Link to='/favorites'><img width={25} height={25} src='./img/favorites.svg' alt='Закладки'></img></Link>
+            <Link to='/favorites'><img width={25} height={25} src='img/favorites.svg' alt='Закладки'></img></Link>
           </li>
           <li>
-            <Link to='/orders'> <img width={22} height={22} src='/img/user.svg' alt='Пользователь' /></Link>
+            <Link to='/orders'> <img width={22} height={22} src='img/user.svg' alt='Пользователь' /></Link>
           </li>
         </ul>
 

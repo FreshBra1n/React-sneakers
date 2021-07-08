@@ -125,10 +125,10 @@ function App(props) {
         <Drawer items={cartItems} onClose={() => { setCartOpened(false) }} onRemove={onRemoveItem} opened={cartOpened} />
 
         <Header onClickCart={() => { setCartOpened(true)  }} />
-        <Route path='/favorites'>
+        <Route path='favorites'>
         
         </Route>
-        <Route path='/' exact>
+        <Route path='' exact>
           <Home
             items={items}
             cartItems={cartItems}
@@ -141,10 +141,10 @@ function App(props) {
 
           />
         </Route>
-        <Route path='/favorites' exact>
+        <Route path='favorites' exact>
           <Favorites />
         </Route>
-        <Route path='/orders' exact>
+        <Route path='orders' exact>
           <Orders />
         </Route>
       </div>
